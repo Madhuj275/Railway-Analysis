@@ -33,7 +33,11 @@ streamlit run app.py
 ## 🖼️ Screenshots
 ![Delay Distribution](delay_distribution.png)  
 ![Distance vs Delay](distance_delay_chart.png)  
-![Regression Analysis](regression.png)  
+![Type Delay Chart](type_delay_chart.png)  
+![Zone Delay Chart](zone_delay_chart.png)  
+![Correlation Part 1](delay_correlation_part1.png)  
+![Correlation Part 2](delay_correlation_part2.png)  
+
 
 ## 🛠️ Deployment
 The project is deployed on Streamlit Community Cloud.
